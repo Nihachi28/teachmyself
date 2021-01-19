@@ -23,7 +23,7 @@
 * 解耦合
 * 面向抽象编程（面向父类编程）
 
-![image-20210114193132644](https://github.com/Nihachi28/teachmyself/blob/main/pic/JDBC.assets/image-20210114192924433.png)
+![image-20210114193132644](https://github.com/Nihachi28/teachmyself/blob/main/pic/JDBC.assets/image-20210114193132644.png)
 
 --------------------------------
 
@@ -193,7 +193,7 @@ public class JDBCDemo {
 
 在驱动（mysql的接口实现类中）中的Driver.class写有静态代码块：
 
-![image-20210115110208532](E:\我的坚果云\Java\JDBC\JDBC.assets\image-20210115110208532.png)
+![image-20210115110208532](https://github.com/Nihachi28/teachmyself/blob/main/pic/JDBC.assets/image-20210115110208532.png)
 
 所以当该类被加载时，就可以通过静态代码块的执行直接注册驱动。
 
