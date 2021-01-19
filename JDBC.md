@@ -23,7 +23,7 @@
 * 解耦合
 * 面向抽象编程（面向父类编程）
 
-![image-20210114193132644](E:\我的坚果云\Java\JDBC\JDBC.assets\image-20210114193132644.png)
+![image-20210114193132644](https://github.com/Nihachi28/teachmyself/blob/main/pic/JDBC.assets/image-20210114192924433.png)
 
 --------------------------------
 
