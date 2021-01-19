@@ -648,7 +648,7 @@ Iterator和ListIterator的区别是：
 * ListIterator实现了Iterator接口，并包含其他的功能，比如：增加元素，替换元素，获取前一个和后一个元素的索引，等等。
 
 
-！[Alt text](/teachmyself/H8ES5OS$P_AD`1WYNBP(8PY.jpg
+！[Image](https://github.com/Nihachi28/teachmyself/blob/main/H8ES5OS%24P_AD%601WYNBP(8PY.jpg)
 
 
 
