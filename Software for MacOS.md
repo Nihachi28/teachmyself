@@ -6,9 +6,9 @@
 
 |                |   Name   |       Usage        |                           **Link**                           |
 | :------------: | :------: | :----------------: | :----------------------------------------------------------: |
-| **开发类工具** |   IDEA   |    IDE For Java    |         [IDEA2020.3](http://idea download address/)          |
+| **开发类工具** |   IDEA   |    IDE For Java    |                  |
 |                |  VsCode  |    Code editing    | [visualstudioDownload](https://code.visualstudio.com/Download) |
-|                | Navicate |        SQL         |          [Mac毒](http://navicat download address/)           |
+|                | Navicate |        SQL         |          [Mac毒](https://www.macdo.cn/31910.html)           |
 |                | DBeaver  |   Databse design   |            [dbeaverDownload](https://dbeaver.io)             |
 |                | Postman  |      Api test      |           [Mac毒](https://www.macdo.cn/31404.html)           |
 |                |   Dash   |   Documentation    |           [dashDownload](https://kapeli.com/dash)            |
